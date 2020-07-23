@@ -390,6 +390,22 @@ button[type="submit"] {
     margin-right: auto;
 }
 
+.ladies-singles-image {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.open-singles-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*--------------------------------------------Media query*/
 
 @media(min-width: 992px) {
