@@ -7,19 +7,19 @@
 }
 
 .ui-menu-color-home {
-    background-color: #931a00;
+    background-color: #fbf404;
 }
 
 .ui-menu-color-singles {
-    background-color:#931a00;
+    background-color:#fbf404;
 }
 
 .ui-menu-color-pairs {
-    background-color: #931a00;
+    background-color: #fbf404;
 }
 
 .ui-menu-color-calendar {
-    background-color:#931a00;
+    background-color:#fbf404;
 }
 
 .bg-color-whats-happening {
@@ -144,14 +144,14 @@ header {
 .menuitem a {
     width: 100%;
     text-decoration: none;
-    color: #fff;
+    color: #353535;
     height: 120px;
 }
 
 .menuitem a i {
     padding-top: 22px;
     display: inline-block;
-    color: #fafafa;
+    color: #f353535;
     font-size: 26px;
 }
 
