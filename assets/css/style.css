@@ -166,6 +166,12 @@ header {
     letter-spacing: 2px;
 }
 
+.mens-singles-heading {
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
@@ -372,6 +378,16 @@ button[type="submit"] {
     color: black;
     font-weight: 500;
     
+}
+
+/*--------------------------------------------Images*/
+
+.mens-singles-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*--------------------------------------------Media query*/
