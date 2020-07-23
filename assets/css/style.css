@@ -7,19 +7,19 @@
 }
 
 .ui-menu-color-home {
-    background-color: #e67e22;
+    background-color: #931a00;
 }
 
-.ui-menu-color-resume {
-    background-color: #9b59b6;
+.ui-menu-color-singles {
+    background-color:#931a00;
 }
 
-.ui-menu-color-contact {
-    background-color: #3498db;
+.ui-menu-color-pairs {
+    background-color: #931a00;
 }
 
-.ui-menu-color-download {
-    background-color: #525252;
+.ui-menu-color-calendar {
+    background-color:#931a00;
 }
 
 .bg-color-whats-happening {
@@ -103,7 +103,7 @@ header {
 
 .name {
     font-family: "Exo", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
     font-size: 46px;
     margin-top: 50px;
     color: #fff;
