@@ -22,12 +22,12 @@
     background-color: #525252;
 }
 
-.bg-color-three-reasons {
+.bg-color-whats-happening {
     background-color: #fff;
 }
 
-.bg-color-personal-info {
-    background-color: #f4f4f4;
+.bg-color-upcoming-matches {
+    background-color: #931a00;
 }
 
 .bg-color-work-history{
@@ -150,7 +150,7 @@ header {
 
 .menuitem a i {
     padding-top: 22px;
-    display: block;
+    display: inline-block;
     color: #fafafa;
     font-size: 26px;
 }
@@ -229,35 +229,43 @@ footer {
 
 /*--------------------------------------------Personal Info*/
 
-.personal-info-item {
+.this-weeks-games {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 8px;
+    color: white;
+}
+
+.fixture {
     margin-bottom: 20px;
     display: block;
     clear: both;
 }
 
-.personal-info-item .key,
-.personal-info-item .value {
+.fixture .key,
+.fixture .value {
     padding-right: 8px;
     display: inline-block;
 }
 
-.personal-info-item .key p,
-.personal-info-item .value p {
+.fixture .key p,
+.fixture .value p {
     margin: 0;
+    color: white;
 }
 
-.personal-info-item .key {
+.fixture .key {
     width: 30%;
     margin-right: 21px;
     padding-top: 2px;
     vertical-align: top;
 }
 
-.personal-info-item .key p {
+.fixture .key p {
     font-weight: 700;
 }
 
-.personal-info-item .value {
+.fixture .value {
     position: relative;
     width: 60%;
 }
