@@ -270,6 +270,10 @@ footer {
     width: 60%;
 }
 
+.this-weeks-games-subheading {
+    color: white;
+}
+
 /*--------------------------------------------Skills*/
 
 .progress {
@@ -359,6 +363,15 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
+}
+
+/*--------------------------------------------Page Contents*/
+
+.draw-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    
 }
 
 /*--------------------------------------------Media query*/
