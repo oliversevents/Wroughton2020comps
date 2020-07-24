@@ -406,6 +406,17 @@ button[type="submit"] {
     margin-right: auto;
 }
 
+/*--------------------------------------------Table*/
+
+.table thead tr th {
+    font-weight: 600;
+    text-align: center;
+}
+
+.table tbody tr td {
+    text-align: center;
+}
+
 /*--------------------------------------------Media query*/
 
 @media(min-width: 992px) {
