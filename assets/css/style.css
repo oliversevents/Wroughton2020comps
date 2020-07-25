@@ -469,11 +469,7 @@ button[type="submit"] {
     margin-right: auto;
     display: block;
     margin-bottom: 30px;
-    border-style: 2px solid black;
-}
-
-.btn-success {
-    border-style: 2px solid black;
+    border: 2px solid black;
 }
 
 .book-a-rink {
