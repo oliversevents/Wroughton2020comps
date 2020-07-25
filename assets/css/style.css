@@ -434,7 +434,7 @@ button[type="submit"] {
 }
 
 .first-weeks {
-    width: 90%;
+    width: 70%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -442,13 +442,17 @@ button[type="submit"] {
 } 
 
 .second-weeks {
-    width: 90%;
+    width: 70%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+.btn {
+    background-color: #931a00;
+    width: 40%;
+}
 /*--------------------------------------------Media query*/
 
 @media(min-width: 992px) {
