@@ -417,6 +417,10 @@ button[type="submit"] {
     text-align: center;
 }
 
+.table-updated {
+    text-align: center;
+}
+
 /*--------------------------------------------Booking page*/
 
 .availability-heading {
@@ -453,6 +457,11 @@ button[type="submit"] {
     background-color: #931a00;
     width: 40%;
 }
+
+.book-a-rink {
+    text-align: center;
+}
+
 /*--------------------------------------------Media query*/
 
 @media(min-width: 992px) {
