@@ -8,18 +8,22 @@
 
 .ui-menu-color-home {
     background-color: #fbf404;
+    border: 1px solid black;
 }
 
 .ui-menu-color-singles {
     background-color:#fbf404;
+    border: 1px solid black;
 }
 
 .ui-menu-color-pairs {
     background-color: #fbf404;
+    border: 1px solid black;
 }
 
 .ui-menu-color-calendar {
     background-color:#fbf404;
+    border: 1px solid black;
 }
 
 .bg-color-whats-happening {
@@ -139,6 +143,7 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
+    border-style: 2px solid black;
 }
 
 .menuitem a {
@@ -170,6 +175,10 @@ header {
     padding-top: 25px;
     text-align: center;
     padding-bottom: 25px;
+}
+
+.nav li {
+    border-style 
 }
 
 /*--------------------------------------------Hover.css*/
@@ -456,6 +465,15 @@ button[type="submit"] {
 .btn {
     background-color: #931a00;
     width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px;
+    border-style: 2px solid black;
+}
+
+.btn-success {
+    border-style: 2px solid black;
 }
 
 .book-a-rink {
