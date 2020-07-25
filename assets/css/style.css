@@ -94,6 +94,7 @@ header {
 }
 
 .logo {
+    background-color: #931a00;
     background: url("../images/WBCLogo.png");
     background-position: center;
     background-repeat: no-repeat;
