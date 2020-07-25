@@ -427,9 +427,16 @@ button[type="submit"] {
     text-align: center;
 }
 
-.table-updated {
+
+.tables-updated {
     text-align: center;
 }
+
+.table-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 
 /*--------------------------------------------Booking page*/
 
