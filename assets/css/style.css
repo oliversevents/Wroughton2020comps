@@ -243,6 +243,11 @@ footer {
     margin-bottom: 15px;
 }
 
+.three-reasons-heading a {
+    color: black;
+    text-decoration: none;
+}
+
 /*--------------------------------------------Personal Info*/
 
 .this-weeks-games {
